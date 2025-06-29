@@ -15,6 +15,12 @@ https://github.com/user-attachments/assets/185b200a-da56-4afc-ad57-bf3123b319c6
 - Hall of Fame scoreboard
 - Colorful animations and effects
 
+## install the game
+'''bash
+pip install typing-master-terminal
+or
+go to this link: https://pypi.org/project/typing-master-terminal/
+
 ## Run the Game
 
 ```bash
