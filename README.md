@@ -2,12 +2,6 @@
 
 A fun and stylish terminal-based typing game with animated UI using `rich`.
 
-## DEMO
-
-https://github.com/user-attachments/assets/185b200a-da56-4afc-ad57-bf3123b319c6
-
-
-
 ## Features
 
 - Beginner, Intermediate, and Advanced modes
@@ -25,3 +19,4 @@ pip install typing-master-terminal
 ## Run the Game
 ```bash
 typing-master
+
